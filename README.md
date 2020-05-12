@@ -7,9 +7,11 @@ Notes and excercises while taking the Harvard CS-50 course
 ## Week 0: Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Functions. Arrays. Threads. Events. pset1
 
 - [x] lecture
-- [ ] problem set
+- [ ] problem set (work in progress)
 
 ## Week 1: Linux. C. Compiling. Libraries. Types. Standard output. pset1
+
+- [ ] lecture
 
 ## Week 2: Casting. Imprecision. Switches. Scope. Strings. Arrays. Cryptography. pset2
 
