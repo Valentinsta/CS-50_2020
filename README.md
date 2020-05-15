@@ -11,7 +11,8 @@ Notes and excercises while taking the Harvard CS-50 course
 
 ## Week 1: Linux. C. Compiling. Libraries. Types. Standard output. pset1
 
-- [ ] lecture
+- [x] lecture
+- [x] problem set (work in progress)
 
 ## Week 2: Casting. Imprecision. Switches. Scope. Strings. Arrays. Cryptography. pset2
 
@@ -23,7 +24,7 @@ Notes and excercises while taking the Harvard CS-50 course
 
 ## Week 6: TCP/IP. HTTP. pset5
 
-## Week 7: HTML. CSS. PHP (edit: Python replaces PHP in Fall 2016). pset6
+## Week 7: HTML. CSS. Python. pset6
 
 ## Week 8: MVC. SQL. pset7
 
