@@ -1,22 +1,32 @@
 # CS-50_2020
 
+> STARTED  13.05.2020
 Notes and excercises while taking the Harvard CS-50 course
 
-- progress: 0.5 %
+- progress: 2 %
+- [gradebook](<https://cs50.me/cs50x>)
 
-## Week 0: Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Functions. Arrays. Threads. Events. pset1
+## Week 0: Scratch (Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler)
 
 - [x] lecture
-- [ ] problem set (work in progress)
+- [ ] problem set (done, not submitted)
 
 ## Week 1: Linux. C. Compiling. Libraries. Types. Standard output. pset1
 
 - [x] lecture
-- [x] problem set (work in progress)
+- [x] problem set
 
-## Week 2: Casting. Imprecision. Switches. Scope. Strings. Arrays. Cryptography. pset2
+## Week 2: Compiling. Debugging. RAM. Strings. Arrays. Cryptography. pset2
+
+> [NOTES](<https://cs50.harvard.edu/x/2020/notes/2/>)
+
+- [x] lecture
+- [ ] problem set (work in progress)
 
 ## Week 3: Command-line arguments. Searching. Sorting. Bubble sort. Selection sort. Insertion sort. O. Ω .Θ. Recursion. Merge Sort. pset3
+
+- [ ] lecture
+- [ ] problem set (work in progress)
 
 ## Week 4: Stack. Debugging. File I/O. Hexadecimal. Strings. Pointers. Dynamic memory allocation. pset4
 
